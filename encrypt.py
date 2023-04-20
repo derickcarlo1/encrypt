@@ -20,8 +20,11 @@ def vigenere_cipher_encrypt(plaintext, keyword):
     return ciphertext
 
 while True:
+    # Show a 'welcome' message
+    welcome = pyfiglet.figlet_format("Vigenere Cipher")
+    print("\033[1m" + welcome + "\033[0m")
+    print("Welcome to my Derick's Vigenere encryption tool! This program will encrypt the message you'll provide")
 
-# Show a 'welcome' message
 
 # Get the message and keyword from the user
 
