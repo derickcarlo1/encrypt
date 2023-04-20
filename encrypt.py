@@ -32,7 +32,9 @@ while True:
     # Encrypt the given message through Vigenere cipher
     ciphertext = vigenere_cipher_encrypt(plaintext, keyword)
 
-# Show the encrypted message
+    # Show the encrypted message
+    print("\nYour encrypted message is:\n")
+    print("\033[1m" + pyfiglet.figlet_format(ciphertext) + "\033[0m")
 
 # Ask if the user wants to encrypt another message
 
