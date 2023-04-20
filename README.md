@@ -6,7 +6,7 @@ Python
 
 # How to run this program
 1. Open a code editor or Python IDE on your computer.
-2. Copy and paste the code you provided into a new file and save it with a .py extension (e.g., vigenere_cipher.py).
+2. Copy and paste this code into a new file and save it with a .py extension (e.g., vigenere_cipher.py).
 3. Make sure you have the pyfiglet package installed. If you don't have it installed, you can install it by running pip install pyfiglet in your terminal/command prompt.
 4. Open your terminal/command prompt and navigate to the directory where the file is saved.
 5. Run the program by typing python vigenere_cipher.py in your terminal/command prompt.
