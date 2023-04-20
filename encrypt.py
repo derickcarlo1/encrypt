@@ -25,8 +25,9 @@ while True:
     print("\033[1m" + welcome + "\033[0m")
     print("Welcome to my Derick's Vigenere encryption tool! This program will encrypt the message you'll provide")
 
-
-# Get the message and keyword from the user
+    # Get the message and keyword from the user
+    plaintext = input("\nEnter your message (uppercase letters ONLY and NO spaces): ")
+    keyword = input("Enter your keyword (uppercase letters ONLY): ")
 
 # Encrypt the given message through Vigenere cipher
 
