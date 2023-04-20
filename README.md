@@ -15,8 +15,8 @@ Python
 8. Choose whether you want to encrypt another message or exit the program by typing Y or N when prompted.
 9. If you choose to encrypt another message, the program will restart. Otherwise, it will display a goodbye message and exit.
 
+# About me
+Hi, I'm Derick Carlo S. Herrera, a Computer Engineering student at the Polytechnic University of the Philippines. I created this encryptor program to showcase my skills in programming and cryptography. I am passionate about technology and how it can be used to solve real-world problems. I believe that with my skills and knowledge, I can contribute to the advancement of the technology industry. In my free time, I enjoy exploring new technologies and developing software applications.
+
 # Contact me if you have any further questions 😍
 dericktzy@gmail.com
-
-# Brief introduction about me
-I'm Derick Carlo S. Herrera, a computer engineering student of Polytechnic University of Philippines and I created this encryptor.
