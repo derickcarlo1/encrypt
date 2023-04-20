@@ -29,7 +29,8 @@ while True:
     plaintext = input("\nEnter your message (uppercase letters ONLY and NO spaces): ")
     keyword = input("Enter your keyword (uppercase letters ONLY): ")
 
-# Encrypt the given message through Vigenere cipher
+    # Encrypt the given message through Vigenere cipher
+    ciphertext = vigenere_cipher_encrypt(plaintext, keyword)
 
 # Show the encrypted message
 
