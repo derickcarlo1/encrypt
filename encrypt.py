@@ -36,6 +36,10 @@ while True:
     print("\nYour encrypted message is:\n")
     print("\033[1m" + pyfiglet.figlet_format(ciphertext) + "\033[0m")
 
-# Ask if the user wants to encrypt another message
-
-# Show a 'goodbye' message
+    # Ask if the user wants to encrypt another message
+    response = input("\nDo you want to encrypt another message? (Y/N): ")
+    if response.upper() != "Y":
+        # Show a 'goodbye' message
+        goodbye = pyfiglet.figlet_format("Goodbye!")
+        print("\n" + "\033[1m" + goodbye + "\033[0m")
+        break
