@@ -17,3 +17,6 @@ Python
 
 # Contact me if you have any further questions 😍
 dericktzy@gmail.com
+
+# My Profile
+I'm Derick Carlo S. Herrera, a computer engineering student of Polytechnic University of Philippines and I created this encryptor.
